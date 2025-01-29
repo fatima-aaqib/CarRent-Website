@@ -153,7 +153,7 @@ export default function Detailar(){
                           </div>
                           <div className="mt-4">
                               <div className="flex items-start space-x-4">
-                                  <Image src="/profill.png" 
+                                  <Image src="/Profill.png" 
                                     width={200}
                                     height={200}
                                   
@@ -173,7 +173,7 @@ export default function Detailar(){
                                   </div>
                               </div>
                               <div className="flex items-start space-x-4 mt-6">
-                                  <Image src="/profill%20(1).png"  width={200} height={300} alt="Profile picture of Skylar Dias" className="w-12 h-12 rounded-full" />
+                                  <Image src="/Profill%20(1).png"  width={200} height={300} alt="Profile picture of Skylar Dias" className="w-12 h-12 rounded-full" />
                                   <div>
                                       <h3 className="font-semibold">Skylar Dias</h3>
                                       <p className="text-gray-500 text-sm">CEO at Amazon</p>
