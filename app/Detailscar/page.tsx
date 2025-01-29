@@ -98,8 +98,8 @@ export default function Detailar(){
                               </div>
                               <div className="flex space-x-4 mt-4">
                                 <Image src="/View%201.png"alt=""  width={200} height={300} className="w-[148px] h-[124px] rounded-lg border-2 bg-[#3563E9] border-blue-500" />
-                                  <Image src="/view%202.png"   width={200} height={300} alt="Interior of the sports car" className="w-[148px] h-[124px] rounded-lg" />
-                                  <Image src="/view%203.png"  width={200} height={300} alt="" className="w-[148px] h-[124px] rounded-lg border-2 bg-[#3563E9] border-blue-500" />
+                                  <Image src="/View%202.png"   width={200} height={300} alt="Interior of the sports car" className="w-[148px] h-[124px] rounded-lg" />
+                                  <Image src="/View%203.png"  width={200} height={300} alt="" className="w-[148px] h-[124px] rounded-lg border-2 bg-[#3563E9] border-blue-500" />
                               </div>
                           </div>
   
