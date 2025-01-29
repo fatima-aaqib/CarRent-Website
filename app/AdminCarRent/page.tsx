@@ -193,7 +193,7 @@ function Adminpage () {
                 {[
                   { name: 'Nissan GT-R', imge:'car%20(1).jpg', type: 'Sport Car', price: '$80.00', date: '20 July' },
                   { name: 'Koegnigsegg',imge:'car%20(10).jpg', type: 'Sport Car', price: '$99.00', date: '19 July' },
-                  { name: 'Rolls-Royce', imge:'car%20(2).jpg', type: 'Sport Car', price: '$96.00', date: '18 July' },
+                  { name: 'Rolls-Royce', imge:'Car%20(2).jpg', type: 'Sport Car', price: '$96.00', date: '18 July' },
                   { name: 'CR-V',imge:'Car%20(1).png', type: 'SUV', price: '$80.00', date: '17 July' }
                 ].map((item, index) => (
                   <div key={index} className="flex items-center space-x-4">
